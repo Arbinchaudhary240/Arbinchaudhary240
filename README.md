@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there, I'm Arbin Chaudhary! 👋
 
-<!--
-**Arbinchaudhary240/Arbinchaudhary240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Django Developer | GSoC 2026 Aspirant | Open Source Enthusiast
+I am a passionate backend developer from Nepal, specializing in building robust web applications with Python and Django. I enjoy turning complex logic into simple, user-friendly code.
 
-Here are some ideas to get you started:
+🛠️ My Technical Toolbox
+Category       Skills
+Backend    : "Python, Django, REST Framework"
+Database   : "PostgreSQL, SQLite, Database Normalization"
+Frontend   : "HTML5, CSS3, Bootstrap 5, JavaScript"
+Tools      : "Git/GitHub, Virtual Environments, Linux Terminal"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Projects
+
+📝 Task Manager 
+A timezone-aware application handling Nepal Standard Time ($UTC + 5:45$).
+Custom template filters for human-readable date logic.
+
+
+📫 Connect with me:
+LinkedIn: [https://www.linkedin.com/in/arbin-chaudhary-565307325/]
+
+Portfolio: [https://github.com/Arbinchaudhary240/]
+
+Email: [arbinchaudhary44@gmail.com]
+
+"The best way to predict the future is to code it."
