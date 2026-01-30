@@ -1,6 +1,6 @@
 Hi there, I'm Arbin Chaudhary! 👋
 
-👨‍💻 Django Developer | GSoC 2026 Aspirant | Open Source Enthusiast
+👨‍💻 Django Developer | Open Source Enthusiast
 I am a passionate backend developer from Nepal, specializing in building robust web applications with Python and Django. I enjoy turning complex logic into simple, user-friendly code.
 
 🛠️ My Technical Toolbox
