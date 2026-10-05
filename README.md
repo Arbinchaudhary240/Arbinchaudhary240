@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arbin Chaudhary
 
-**Django Developer · Open Source Enthusiast · Nepal**
+**Python/Django Developer · Open Source Enthusiast · Nepal**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -13,24 +13,32 @@
 
 ## About me
 
-Passionate backend developer specializing in building robust web applications with Python and Django. I enjoy turning complex logic into clean, maintainable code — and I'm always looking for open source projects to contribute to.
+Python backend developer specializing in building robust web applications with Python and Django. I enjoy turning complex logic into clean, maintainable code — and I'm always looking for open source projects to contribute to.
 
 ---
 
-## 🛠️ Tech stack
+##  Tech stack
 
 | Category | Skills |
 |---|---|
-| **Backend** | Python, Django, Django REST Framework |
+| **Backend** | Python, Django, Django REST Framework, Json |
 | **Database** | PostgreSQL, SQLite, Database Normalization |
-| **Frontend** | HTML5, CSS3, Bootstrap 5, JavaScript |
+| **Caching & Infrastructure** | Redis, Docker, Gunicorn |
+| **Computer Science** | OOPs, Data Sturctures and Algorithms(learning), System Design Concepts(learning) |
 | **Tools** | Git / GitHub, Linux Terminal, Virtual Environments |
+| **Frontend** | HTML5, CSS3, Bootstrap 5, JavaScript |
 
 ---
 
-## 🚀 Featured projects
+##  Featured projects
 
-### 📝 Task Manager
+### URL Shortener
+> Url-shortener is a service that take long url and generates a shorturl with and when user clicks to that short url it redierect user to original url.
+- Implemented URL validation and scheme normalization, health-check endpoints, and environment-based configuration.
+- Practiced service-oriented design, API testing, and deployment-oriented configuration.
+Live: url-shortener-production-9fe1.up.railway.app/api/shorten/
+
+###  Task Manager
 > Timezone-aware task application with full Nepal Standard Time (UTC +5:45) support.
 
 - Custom template filters for human-readable date logic
