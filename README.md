@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Arbin Chaudhary
 
-**Python/Django Developer · Open Source Enthusiast · Nepal**
+**Fullstack developer · Backend engineer · Open Source Enthusiast · Nepal**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-3776AB?style=flat&logo=Javascript&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-3776AB?style=flat&logo=React&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -13,9 +15,8 @@
 
 ## About me
 
-Python backend developer specializing in building robust web applications with Python and Django. I enjoy turning complex logic into clean, maintainable code — and I'm always looking for open source projects to contribute to.
-
----
+Hi,
+My name is Arbin chaudhary and I'm a fullstack developer focused on backend engineering from Nepal. I have hands on experience in developing scalable rest Api, database backend systems, web application with Django, react, django restFramework, restApi, git, github, postgresqland docker.I have built many personal projects and deployed it on cloud platform
 
 ##  Tech stack
 
@@ -26,7 +27,7 @@ Python backend developer specializing in building robust web applications with P
 | **Caching & Infrastructure** | Redis, Docker, Gunicorn |
 | **Computer Science** | OOPs, Data Sturctures and Algorithms(learning), System Design Concepts(learning) |
 | **Tools** | Git / GitHub, Linux Terminal, Virtual Environments |
-| **Frontend** | HTML5, CSS3, Bootstrap 5, JavaScript |
+| **Frontend** | HTML5, CSS3, Bootstrap 5, JavaScript, React |
 
 ---
 
@@ -38,11 +39,11 @@ Python backend developer specializing in building robust web applications with P
 - Practiced service-oriented design, API testing, and deployment-oriented configuration.
 Live: url-shortener-production-9fe1.up.railway.app/api/shorten/
 
-###  Task Manager
-> Timezone-aware task application with full Nepal Standard Time (UTC +5:45) support.
+###  StartupBridge
+> startupbridge is a platform which connect the people having startup idea but lacks the technical skills, relevent resources and no clear path.
 
-- Custom template filters for human-readable date logic
-- Clean Django backend with proper timezone handling
+- implemented messging system which only allow to message to connected founder or users
+- Implemented server-side pagination so that it donot load all startup listing at once which increase performence
 
 ---
 
